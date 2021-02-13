@@ -88,7 +88,12 @@ button {
 
 @media (min-width: 0px) and (max-width: 767px) {
   h1 {
-  	font-size: 35px;
+  	font-size: 20px;
   }
+	p{
+	text-align: center;
+	font-size: 25px;
+	
+}
   
 }
