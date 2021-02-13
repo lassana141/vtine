@@ -85,3 +85,10 @@ button {
 @keyframes example3 {
 	100%{background: url(;); left: 200px; right: 200px;}
 }
+
+@media (min-width: 0px) and (max-width: 767px) {
+  h1 {
+  	font-size: 35px;
+  }
+  
+}
